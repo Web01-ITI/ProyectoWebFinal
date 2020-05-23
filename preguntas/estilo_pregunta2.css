@@ -1,0 +1,21 @@
+body{
+	padding: 200px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin: 0;
+	background-color: #59F50E;
+	text-align: center;
+}
+
+div{
+	padding: 10px;	
+	background-color: #0EF5F3;
+	border: 5px solid black;
+}
+
+p{
+	background-color: #F5C00E;
+	width: 600px;
+	height: auto;
+	padding: 15px;
+}

@@ -1,0 +1,39 @@
+body{
+	padding: 5px;
+	text-align: center;
+	margin: 0px;
+	background-color: #F5D80E
+}
+
+ol{
+	list-style: none;
+	width: 300px;
+}
+
+ol ul{
+	list-style: none;
+}
+
+div{
+	position: relative;
+	top: 10%;
+	left: 38%;
+
+	background-color: #F5730E;
+	width: 380px;
+	padding: 5px;
+	border: 5px solid #000;
+}
+
+.informacion{
+	background-color: #55F50E;
+	margin: 5px;
+	padding: 30px 20px;
+	border: 2px solid #000;
+}
+.titulo{
+	background-color: #0EE9F5;
+	margin: 10px;
+	padding: 20px 20px;
+	border: 3px dashed #000;
+}
